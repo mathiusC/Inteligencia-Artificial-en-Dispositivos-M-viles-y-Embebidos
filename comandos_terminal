@@ -1,0 +1,7 @@
+git clone https://github.com/mathiusC/Inteligencia-Artificial-en-Dispositivos-M-viles-y-Embebidos
+
+cd ~/Inteligencia-Artificial-en-Dispositivos-M-viles-y-Embebidos
+
+source tf-env/bin/activate
+
+python proyectofinaltflite.py
